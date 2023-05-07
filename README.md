@@ -2,6 +2,7 @@
 * We are going to configure an API for our prediction model
 
 >Introduction:
+
 >First, we clean the data base with the objetive of not making errors while working in a machine learning model
 >Second, we use 3 models to predict: the Logistic Regression, Bayesian Ridge, XGBoostRegressor
 
